@@ -1,0 +1,26 @@
+body{
+    font-family:'Arvo', serif;
+
+}
+
+.height{
+    min-height: 100vh;
+}
+
+.title-underline{
+    width:100px;
+    height:5px;
+    margin: 0 auto;
+   /**background-color: blue!important;*/
+}
+.height-80{
+    min-height: 80vh;
+}
+.about-picture{
+    background: url(../images/img4.jfif);
+    min-height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
